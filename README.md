@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-miroir-de-mon-ame/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Le Miroir De Mon Âme](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-miroir-de-mon-ame/) |
+| **Get License** | [Official Music Licensing for Le Miroir De Mon Âme](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-miroir-de-mon-ame/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans le miroir de mon âme, je ne vois que ton reflet
+> Tes yeux qui brillent dans la nuit, my baby, s'il te plaît
+> Laisse-moi frôler ton corps, dessiner ta silhouette
+> C'est toi ma seule évidence, la seule que je souhaite
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
